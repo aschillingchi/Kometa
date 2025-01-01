@@ -234,6 +234,7 @@ PersistentVolumeClaim
 pgid
 PGID
 pkkid
+planetrocky
 plex
 plex's
 plexapi
@@ -257,6 +258,7 @@ Razzie
 Razzies
 Readme
 README
+Realtime
 ReadWriteOnce
 reciperr
 reddit
